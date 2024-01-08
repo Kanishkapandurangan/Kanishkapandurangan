@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkapandurangan" alt="kanishkapandurangan" /></a> </p>
 
-- 🔭 I’m currently working on **app development**
+- 🔭 I’m currently working on **app development and coding skills**
 
 - ✉️ You can contact me at [https://t.me/P_kanishka](https://t.me/P_kanishka)
 
 - 📫 How to reach me **kanishkapandurangan@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/kanishka-pandurangan-026424288](www.linkedin.com/in/kanishka-pandurangan-026424288)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
